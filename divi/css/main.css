@@ -1,0 +1,60 @@
+#mom{
+position: relative;
+    margin:0 auto;
+    width:1800px;
+    height:900px;
+        margin-top:50px;
+    border: 1px solid black;
+}
+#son{
+    position: absolute;
+    width:1091px;
+    height:107px;
+    margin-top:50px;
+    border:1px solid black;
+    margin-left:350px;
+}
+#go{
+    position: absolute;
+    width:100px;
+    height:80px;
+    margin-top:200px;
+    margin-left:850px;
+    border:1px solid black;
+}
+#up{
+    position: absolute;
+  width:800px;
+    height:120px;
+    border:1px solid black;
+    margin-top:350px;
+    margin-left:500px;
+    float:left;
+    font-size:40px;
+}
+#wup{
+    width:120px;
+    height:120px;
+    font-size:30px;
+    margin-top:350px;
+    margin-left:1400px;
+    position: absolute;
+}
+#down{
+    position: absolute;
+  width:800px;
+    height:120px;
+    border:1px solid black;
+    margin-top:500px;
+    margin-left:500px;
+    float:left;
+    font-size:40px;
+}
+#wdown{
+    width:120px;
+    height:120px;
+    font-size:30px;
+    margin-top:500px;
+    margin-left:1400px;
+    position: absolute; 
+}

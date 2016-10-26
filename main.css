@@ -1,0 +1,35 @@
+#mom{
+    height:600px;
+    width:1200px;
+    margin-top:100px;
+    margin: 0 auto;
+    border:1px solid black;
+    position: relative;
+}
+#bh1{
+    height:600px;
+    width:290px;
+    background-color: aqua;
+    position: absolute;
+}
+#bh2{
+    height:600px;
+    width:290px;
+    background-color: aquamarine;
+    position: absolute;
+    margin-left:290px;
+}
+#bh3{
+    height:600px;
+    width:290px;
+    background-color: bisque;
+    position: absolute;
+    margin-left:580px;
+}
+#bh4{
+    height:600px;
+    width:290px;
+    background-color: cornflowerblue;
+    position: absolute;
+    margin-left:870px;
+}

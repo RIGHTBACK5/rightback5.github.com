@@ -1,0 +1,39 @@
+#mom{
+    width:1800px;
+    height:900px;
+    position:relative;
+    margin:0 auto;
+    margin-top:70px;
+    border:1px solid black;
+}
+#num{
+    width:800px;
+    height:600px;
+    background-color: white;
+    position: absolute;
+    font-size:200px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top:50px;
+    margin-left:500px;
+    border: 1px solid black;
+    float:right;
+}
+#plus{
+width:100px;
+    height:100px;
+    position: absolute;
+    font-size: 70px;
+    margin-top:700px;
+    margin-left:500px;
+    text-align: center;
+}
+#minus{
+    width:100px;
+    height:100px;
+    position: absolute;
+    font-size: 70px;
+    margin-top:700px;
+    margin-left:1200px;
+    text-align: center;
+}
