@@ -14,6 +14,7 @@ snum = setInterval(function(){
 $("#plus").click(function(){
     clearInterval(snum);
     clearInterval(mnum);
+    clearInterval(anum);
     onum+=100;
   $("#num").html(onum);
     if(onum>=400){
@@ -30,6 +31,7 @@ $("#plus").click(function(){
 $("#minus").click(function(){
     clearInterval(snum);
     clearInterval(anum);
+    clearInterval(mnum);
    onum-=100;
     $("#num").html(onum);
     if(onum<=0){
