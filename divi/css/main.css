@@ -1,9 +1,9 @@
 #mom{
-position: relative;
+    position: relative;
     margin:0 auto;
     width:1800px;
     height:900px;
-        margin-top:50px;
+    margin-top:50px;
     border: 1px solid black;
 }
 #son{
@@ -19,18 +19,27 @@ position: relative;
     width:100px;
     height:80px;
     margin-top:200px;
-    margin-left:850px;
+    margin-left:775px;
+    border:1px solid black;
+}
+#re{
+    position:absolute;
+    width:100px;
+    height:80px;
+    margin-top:200px;
+    margin-left:925px;
     border:1px solid black;
 }
 #up{
     position: absolute;
-  width:800px;
+    width:800px;
     height:120px;
     border:1px solid black;
     margin-top:350px;
     margin-left:500px;
-    float:left;
+    float:right;
     font-size:40px;
+    text-align: center;
 }
 #wup{
     width:120px;
@@ -42,13 +51,14 @@ position: relative;
 }
 #down{
     position: absolute;
-  width:800px;
+    width:800px;
     height:120px;
     border:1px solid black;
     margin-top:500px;
     margin-left:500px;
     float:left;
     font-size:40px;
+    text-align: center;
 }
 #wdown{
     width:120px;

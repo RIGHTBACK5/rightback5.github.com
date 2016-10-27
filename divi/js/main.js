@@ -15,11 +15,16 @@ num[4] = $("#i5:text").val();
 num[5] = $("#i6:text").val();
  
 num[6] = $("#i7:text").val();
+    
 num[7] = $("#i8:text").val();
  
 num[8] = $("#i9:text").val();
   
 num[9] = $("#i10:text").val();
+    
+    function reset(){
+        console.log("man what's up");
+    }
   
 for(i=0; i<10; i++){
     for(j=i+1; j<10; j++){
@@ -46,3 +51,4 @@ for(i=0; i<10; i++){
     $("#up").append(num[i]);
 }  
      });
+$("#re").click(reset);
