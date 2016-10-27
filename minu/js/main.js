@@ -5,7 +5,7 @@ var snum;
 var mnum;
 $("#num").html(onum);
 snum = setInterval(function(){
-    onum+100;
+    onum+=100;
     if(onum>=500){
         onum=0;
     }
