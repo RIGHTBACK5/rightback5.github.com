@@ -8,28 +8,42 @@
 }
 #bh1{
     height:600px;
-    width:290px;
+    width:200px;
     background-color: aqua;
     position: absolute;
 }
 #bh2{
     height:600px;
-    width:290px;
+    width:200px;
     background-color: aquamarine;
     position: absolute;
-    margin-left:290px;
+    margin-left:200px;
 }
 #bh3{
     height:600px;
-    width:290px;
+    width:200px;
     background-color: bisque;
     position: absolute;
-    margin-left:580px;
+    margin-left:400px;
 }
 #bh4{
     height:600px;
-    width:290px;
+    width:200px;
     background-color: cornflowerblue;
     position: absolute;
-    margin-left:870px;
+    margin-left:600px;
+}
+#bh5{
+    height:600px;
+    width:200px;
+    background-color: mintcream;
+    position: absolute;
+    margin-left:800px;
+}
+#bh6{
+    height:600px;
+    width:200px;
+    background-color: lemonchiffon;
+    position: absolute;
+    margin-left:1000px;
 }
